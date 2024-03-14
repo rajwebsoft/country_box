@@ -1,0 +1,20 @@
+{
+  "name": "country_box",
+  "version": "1.0.0",
+  "description": "Country box showing for the user in react js",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo Welcome to raj web soft\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajwebsoft/country_box.git"
+  },
+  "keywords": [
+    "dropdown",
+    "country",
+    "boxes"
+  ],
+  "author": "Raj Kumar",
+  "license": "ISC"
+}
